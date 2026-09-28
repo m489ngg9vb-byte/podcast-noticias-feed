@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>LMd · resumen semanal</title>
+    <link>https://m489ngg9vb-byte.github.io/podcast-noticias-feed/lmd/</link>
+    <language>es</language>
+    <description>Resumen semanal en español de Le Monde diplomatique, a partir de la hemeroteca abierta de su edición alemana. Uso personal.</description>
+    <itunes:author>Ander (uso personal)</itunes:author>
+    <itunes:image href="https://m489ngg9vb-byte.github.io/podcast-noticias-feed/lmd/portada.png" />
+    <itunes:category text="News" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Semana del 28 de septiembre de 2026</title>
+      <description>&lt;p&gt;Artículos de esta semana:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;«La lucha por Malí», de Akram Belkaïd y Anne-Cécile Robert (Le Monde diplomatique, junio de 2026)&lt;/li&gt;&lt;li&gt;«Buenos Aires: escenarios de devastación social», de César González (Le Monde diplomatique, junio de 2026)&lt;/li&gt;&lt;li&gt;«Colombia después de Petro», de Maurice Lemoine (Le Monde diplomatique, junio de 2026)&lt;/li&gt;&lt;li&gt;«Grecia e Israel», de Niels Kadritzke (Le Monde diplomatique, junio de 2026)&lt;/li&gt;&lt;li&gt;«La emergencia energética de la India en tiempos de la guerra de Irán», de Samrat Choudhury (Le Monde diplomatique, junio de 2026)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Esta semana he tenido en cuenta: Artículos de fondo del número de junio, repartidos entre África, América Latina, Europa y Asia, con temas de seguridad, política, pobreza y energía.&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/m489ngg9vb-byte/podcast-noticias/issues?q=label%3Avaloracion"&gt;Valorar este episodio&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Voz sintética de Microsoft Edge.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/m489ngg9vb-byte/podcast-noticias-feed/releases/download/lmd-2026-09-28/lmd-2026-09-28.mp3" length="10539093" type="audio/mpeg" />
+      <guid isPermaLink="false">lmd-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:duration>1317</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

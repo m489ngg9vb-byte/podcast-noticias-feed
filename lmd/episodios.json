@@ -1,0 +1,49 @@
+[
+  {
+    "id": "lmd-2026-09-28",
+    "fecha": "2026-09-28",
+    "titulo": "Semana del 28 de septiembre de 2026",
+    "notas": "<p>Artículos de esta semana:</p><ol><li>«La lucha por Malí», de Akram Belkaïd y Anne-Cécile Robert (Le Monde diplomatique, junio de 2026)</li><li>«Buenos Aires: escenarios de devastación social», de César González (Le Monde diplomatique, junio de 2026)</li><li>«Colombia después de Petro», de Maurice Lemoine (Le Monde diplomatique, junio de 2026)</li><li>«Grecia e Israel», de Niels Kadritzke (Le Monde diplomatique, junio de 2026)</li><li>«La emergencia energética de la India en tiempos de la guerra de Irán», de Samrat Choudhury (Le Monde diplomatique, junio de 2026)</li></ol><p>Esta semana he tenido en cuenta: Artículos de fondo del número de junio, repartidos entre África, América Latina, Europa y Asia, con temas de seguridad, política, pobreza y energía.</p><p><a href=\"https://github.com/m489ngg9vb-byte/podcast-noticias/issues?q=label%3Avaloracion\">Valorar este episodio</a></p><p>Voz sintética de Microsoft Edge.</p>",
+    "url_audio": "https://github.com/m489ngg9vb-byte/podcast-noticias-feed/releases/download/lmd-2026-09-28/lmd-2026-09-28.mp3",
+    "bytes": 10539093,
+    "segundos": 1317,
+    "articulos": [
+      {
+        "url": "https://monde-diplomatique.de/artikel/!6182883",
+        "titulo": "La lucha por Malí",
+        "autor": "Akram Belkaïd y Anne-Cécile Robert",
+        "fuente": "Le Monde diplomatique, junio de 2026",
+        "gemelos": []
+      },
+      {
+        "url": "https://monde-diplomatique.de/artikel/!6184013",
+        "titulo": "Buenos Aires: escenarios de devastación social",
+        "autor": "César González",
+        "fuente": "Le Monde diplomatique, junio de 2026",
+        "gemelos": []
+      },
+      {
+        "url": "https://monde-diplomatique.de/artikel/!6183568",
+        "titulo": "Colombia después de Petro",
+        "autor": "Maurice Lemoine",
+        "fuente": "Le Monde diplomatique, junio de 2026",
+        "gemelos": []
+      },
+      {
+        "url": "https://monde-diplomatique.de/artikel/!6184005",
+        "titulo": "Grecia e Israel",
+        "autor": "Niels Kadritzke",
+        "fuente": "Le Monde diplomatique, junio de 2026",
+        "gemelos": []
+      },
+      {
+        "url": "https://monde-diplomatique.de/artikel/!6183649",
+        "titulo": "La emergencia energética de la India en tiempos de la guerra de Irán",
+        "autor": "Samrat Choudhury",
+        "fuente": "Le Monde diplomatique, junio de 2026",
+        "gemelos": []
+      }
+    ],
+    "voz_reserva": false
+  }
+]
