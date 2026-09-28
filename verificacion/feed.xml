@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Verificación de audio</title>
+    <link>https://m489ngg9vb-byte.github.io/podcast-noticias-feed/verificacion/</link>
+    <language>es</language>
+    <description>Prueba de reproducción. Se borrará.</description>
+    <itunes:author>Ander (uso personal)</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Prueba de audio</title>
+      <description>Si oyes esto y puedes avanzar, el alojamiento funciona.</description>
+      <enclosure url="https://github.com/m489ngg9vb-byte/podcast-noticias-feed/releases/download/verificacion-audio/edge.mp3" length="283248" type="audio/mpeg"/>
+      <guid isPermaLink="false">verificacion-audio-1</guid>
+      <pubDate>Mon, 28 Sep 2026 20:31:19 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
