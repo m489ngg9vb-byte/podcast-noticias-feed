@@ -1,5 +1,52 @@
 [
   {
+    "id": "lmd-2026-09-30",
+    "fecha": "2026-09-30",
+    "titulo": "Semana del 30 de septiembre de 2026",
+    "notas": "<p>Artículos de esta semana:</p><ol><li>«La base estadounidense de Creta», de Niels Kadritzke (Le Monde diplomatique, junio de 2026). Lo cuenta Jon.</li><li>«Arriba electricidad, abajo vino», de Philippe Baqué (Le Monde diplomatique, junio de 2026). Lo cuenta Iñaki.</li><li>«Tigres y ciclones», de Bertrand Daugeron (Le Monde diplomatique, junio de 2026). Lo cuenta Nerea.</li><li>«¿Qué será de Palmira?», de Antoine Pecqueur (Le Monde diplomatique, junio de 2026). Lo cuenta Maite, que presenta.</li><li>«Ninguna revuelta en Java», de Vedi R. Hadiz (Le Monde diplomatique, junio de 2026). Lo cuenta Mikel.</li></ol><p>Esta semana he tenido en cuenta: Artículos de fondo del número más reciente (junio), con variedad de regiones y temas: Grecia, Francia, India, Siria e Indonesia.</p><p><a href=\"https://github.com/m489ngg9vb-byte/podcast-noticias/issues?q=label%3Avaloracion\">Valorar este episodio</a></p><p>Presenta Maite. Voces sintéticas de reserva (Microsoft Edge).</p>",
+    "url_audio": "https://github.com/m489ngg9vb-byte/podcast-noticias-feed/releases/download/lmd-2026-09-30/lmd-2026-09-30.mp3",
+    "bytes": 13112468,
+    "segundos": 1639,
+    "articulos": [
+      {
+        "url": "https://monde-diplomatique.de/artikel/!6184059",
+        "titulo": "La base estadounidense de Creta",
+        "autor": "Niels Kadritzke",
+        "fuente": "Le Monde diplomatique, junio de 2026",
+        "gemelos": []
+      },
+      {
+        "url": "https://monde-diplomatique.de/artikel/!6182902",
+        "titulo": "Arriba electricidad, abajo vino",
+        "autor": "Philippe Baqué",
+        "fuente": "Le Monde diplomatique, junio de 2026",
+        "gemelos": []
+      },
+      {
+        "url": "https://monde-diplomatique.de/artikel/!6182831",
+        "titulo": "Tigres y ciclones",
+        "autor": "Bertrand Daugeron",
+        "fuente": "Le Monde diplomatique, junio de 2026",
+        "gemelos": []
+      },
+      {
+        "url": "https://monde-diplomatique.de/artikel/!6182878",
+        "titulo": "¿Qué será de Palmira?",
+        "autor": "Antoine Pecqueur",
+        "fuente": "Le Monde diplomatique, junio de 2026",
+        "gemelos": []
+      },
+      {
+        "url": "https://monde-diplomatique.de/artikel/!6182453",
+        "titulo": "Ninguna revuelta en Java",
+        "autor": "Vedi R. Hadiz",
+        "fuente": "Le Monde diplomatique, junio de 2026",
+        "gemelos": []
+      }
+    ],
+    "voz_reserva": true
+  },
+  {
     "id": "lmd-2026-09-28",
     "fecha": "2026-09-28",
     "titulo": "Semana del 28 de septiembre de 2026",
